@@ -13,4 +13,7 @@ public class DemoController {
     public void test3(){
         System.out.println("the thrid line ");
     }
+    public void test4(){
+        System.out.println("asdasdasdasda");
+    }
 }
