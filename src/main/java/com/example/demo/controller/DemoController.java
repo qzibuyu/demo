@@ -10,4 +10,7 @@ public class DemoController {
     public void test2(){
         System.out.println("the second line");
     }
+    public void test3(){
+        System.out.println("the thrid line ");
+    }
 }
