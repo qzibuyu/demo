@@ -7,4 +7,7 @@ public class DemoController {
     public void tet1(){
         System.out.println("the master line");
     }
+    public void test2(){
+        System.out.println("the second line");
+    }
 }
