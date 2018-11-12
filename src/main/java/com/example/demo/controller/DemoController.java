@@ -10,4 +10,7 @@ public class DemoController {
     public void test77(){
         System.out.println("7777777777777");
     }
+    public  void test88(){
+        System.out.println("88888888");
+    }
 }
